@@ -1,0 +1,281 @@
+c1.central h1.harbour
+enter the station
+enter the station
+hello enter the station
+
+select the destination code: a1.rabale a2.ghansoli a3.koparkhairne a4.turbhe a5.Sanpada a6.Vashi a7.juinagar a8.nerul a9.thane a10.chembur a11.panvel a12.kharghar a13.belapur
+select the destination code:r1.ghansoli r2.koparkhairne r3.turbhe r4.Sanpada r5.Vashi r6.juinagar r7.nerul r8.thane r9.chembur r10.panvel r11.kharghar r13.belapur
+select the destination code:g1.koparkhairne g2.turbhe g3.Sanpada g4.Vashi g5.juinagar g6.nerul g7.thane g8.airoli g9.rabale g10.chembur g11.panvel g12.kharghar g13.belapur
+select the destination code:k1.turbhe k2.Sanpada k3.Vashi k4.juinagar k5.nerul k6.thane k7.airoli k8.rabale k9.ghansoli k10.chembur k11.panvel k12.kharghar k13.belapur
+select the destination code:t1.Sanpada t2.Vashi t3.juinagar t4.nerul t5.thane t6.airoli t7.rabale t8.ghansoli t9.koparkhairne t10.chembur t11.panvel t12.kharghar t13.belapur 
+select the destination code:s1.Vashi s2.juinagar s3.nerul s4.chembur s5.panvel s6.kharghar s7.belapur
+select the destination code:v1.chembur v2.panvel v3.kharghar v4.belapur v5.thane
+select the destination code:j1.sanpada j2.vashi j3.nerul j4.thane j5.airoli j6.rabale j7.ghansoli j8.koparkhairne j9.turbhe j10.chembur j11.panvel j12.kharghar j13.belapur
+select the destination code: n1.rabale n2.ghansoli n3.koparkhairne n4.turbhe n5.Sanpada n6.Vashi n7.juinagar n8.thane n9.airoli n10.panvel n11.chembur n12.kharghar n13.belapur
+select the destination code:th1.airoli th2.rabale th3.ghansoli th4.koparkhairne th5.turbhe th6.Sanpada th7.Vashi th8.juinagar th9.nerul th10.panvel th11.chembur th12.kharghar th13.belapur
+
+
+
+
+airoli to rabale - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+airoli to ghansoli single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+airoli to koparkhairne- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+airoli to turbe- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+airoli to sanpada-single Rs.10(II),  return Rs.20(II), monthly - 200(II) 
+airoli to vashi-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+airoli to juinagar-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+airoli to nerul-single Rs.15(II),  return Rs.30(II), monthly - 280(II) 
+airoli to thane - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+airoli to chembur - via vashi single Rs.5(II),  return Rs.10(II), monthly - 100(II); via thane single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+airoli to panvel - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+airoli to kharghar - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+airoli to belapur - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+
+
+
+
+
+
+
+rabale to ghansoli single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+rabale to koparkhairne- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+rabale to turbhe- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+rabale to sanpada-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+rabale to vashi-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+rabale to juinagar-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+rabale to nerul-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+rabale to thane - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+rabale to chembur - via vashi single Rs.5(II),  return Rs.10(II), monthly - 100(II); via thane single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+rabale to panvel - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+rabale to kharghar - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+rabale to belapur - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+
+
+
+
+
+
+
+
+ghansoli to koparkhairne - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+ghansoli to turbhe- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+ghansoli to sanpada-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+ghansoli to vashi-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+ghansoli to juinagar-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+ghansoli to nerul-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+ghansoli to thane - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+ghansoli to chembur - via vashi single Rs.5(II),  return Rs.10(II), monthly - 100(II); via thane single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+ghansoli to panvel - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+ghansoli to kharghar - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+ghansoli to belapur - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+
+
+
+
+
+
+
+
+
+koparkhairne to turbhe- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to sanpada-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to vashi-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to juinagar-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to nerul-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to thane - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to airoli - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to rabale - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to ghansoli single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+koparkhairne to chembur - via vashi single Rs.5(II),  return Rs.10(II), monthly - 100(II); via thane single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+koparkhairne to panvel - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+koparkhairne to kharghar - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+koparkhairne to belapur - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+
+
+
+
+
+
+
+turbhe to sanpada-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+turbhe to vashi-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+turbhe to juinagar-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+turbhe to nerul-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+turbhe to thane - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+turbhe to airoli - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+turbhe to rabale - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+turbhe to ghansoli single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+turbhe to koparkhairne single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+turbhe to chembur - via vashi single Rs.5(II),  return Rs.10(II), monthly - 100(II); via thane single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+turbhe to panvel - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+turbhe to kharghar - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+turbhe to belapur - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+
+
+
+
+
+
+
+juinagar to sanpada-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+juinagar to vashi-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+juinagar to nerul-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+juinagar to thane - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+juinagar to airoli - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+juinagar to rabale - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+juinagar to ghansoli single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+juinagar to koparkhairne single - Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+juinagar to turbhe- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+juinagar to chembur - via vashi single Rs.5(II),  return Rs.10(II), monthly - 100(II); via thane single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+juinagar to panvel - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+juinagar to kharghar - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+juinagar to belapur - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+
+
+
+
+
+
+
+nerul to rabale - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+nerul to ghansoli single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+nerul to koparkhairne- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+nerul to turbe- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+nerul to sanpada-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+nerul to vashi-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+nerul to juinagar-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+nerul to thane - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+nerul to airoli-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+nerul to panvel-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+nerul to chembur - Rs.5(II),  return Rs.10(II), monthly - 100(II)
+nerul to kharghar - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+nerul to belapur - single Rs.5(II),  return Rs.10(II), monthly - 100(II)
+
+
+
+
+
+
+
+thane to airoli - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+thane to rabale - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+thane to ghansoli single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+thane to koparkhairne- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+thane to turbe- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+thane to sanpada-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+thane to vashi-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+thane to juinagar-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+thane to nerul-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+thane to panvel - single Rs.10(II),  return Rs.20(II), monthly - 250(II)
+
+
+
+
+
+
+
+
+
+
+sanpada to vashi-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+sanpada to nerul-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+sanpada to thane - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+sanpada to airoli - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+sanpada to rabale - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+sanpada to ghansoli single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+sanpada to koparkhairne single - Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+sanpada to turbhe- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+sanpada to panvel- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+sanpada to belapur- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+sanpada to kharghar- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+
+
+
+
+
+
+
+
+
+select the destination code: p1.airoli p2.rabale p3.ghansoli p4.koparkhairne p5.turbhe p6.Sanpada p7.Vashi p8.juinagar p9.nerul p10.thane p11.chembur p12.kharghar p13.belapur
+select the destination code: c1.airoli c2.rabale c3.ghansoli c4.koparkhairne c5.turbhe c6.Sanpada c7.Vashi c8.juinagar c9.nerul c10.thane  c11.kharghar c12.belapur
+select the destination code: kh1.airoli kh2.rabale kh3.ghansoli kh4.koparkhairne kh5.turbhe kh6.Sanpada kh7.Vashi kh8.juinagar kh9.nerul kh10.thane kh11.chembur kh12.belapur
+select the destination code: b1.airoli b2.rabale b3.ghansoli b4.koparkhairne b5.turbhe b6.Sanpada b7.Vashi b8.juinagar b9.nerul b10.thane b11.chembur b12.kharghar 
+
+
+
+
+
+
+panvel to airoli-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to rabale-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to ghansoli - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to koparkhairne - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to turbhe - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to sanpada-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to vashi- single - Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+panvel to juinagar- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to nerul- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+panvel to thane single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to chembur- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+panvel to kharghar- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+panvel to belapur- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+
+
+
+
+
+
+
+chembur to airoli- via vashi single Rs.10(II),  return Rs.20(II), monthly - 250(II) ;                                                       via nerul single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+chembur to rabale-via vashi single Rs.20(II),  return Rs.40(II), monthly - 350(II) ;                                                       via nerul single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+chembur to ghansoli -via vashi single Rs.10(II),  return Rs.20(II), monthly - 250(II) ;                                                       via nerul single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+chembur to koparkhairne - via vashi single Rs.10(II),  return Rs.20(II), monthly - 250(II) ;                                                       via nerul single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+chembur to turbhe - via vashi single Rs.10(II),  return Rs.20(II), monthly - 250(II) ;                                                       via nerul single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+chembur to sanpada- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+chembur to vashi- single - Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+chembur to juinagar- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+chembur to nerul- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+chembur to thane - via vashi single Rs.5(II),  return Rs.10(II), monthly - 125(II) ;                                                       via nerul single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+chembur to kharghar- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+chembur to belapur- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+
+
+
+
+
+
+
+
+kharghar to airoli-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+kharghar to rabale-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+kharghar to ghansoli - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+kharghar to koparkhairne - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+kharghar to turbhe - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+kharghar to sanpada-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+kharghar to vashi- single - Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+kharghar to juinagar- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+kharghar to nerul- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+kharghar to thane single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+kharghar to chembur- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+kharghar to belapur- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+
+
+
+
+
+
+
+
+belapur to airoli-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+belapur to rabale-single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+belapur to ghansoli - single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+belapur to koparkhairne - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+belapur to turbhe - single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+belapur to sanpada-single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+belapur to vashi- single - Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+belapur to juinagar- single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+belapur to nerul- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+belapur to thane single Rs.10(II),  return Rs.20(II), monthly - 250(II) 
+belapur to chembur- single Rs.5(II),  return Rs.10(II), monthly - 125(II) 
+
